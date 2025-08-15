@@ -5,4 +5,8 @@ module cse213.group19fc {
 
     opens cse213.group19fc to javafx.fxml;
     exports cse213.group19fc;
+    opens cse213.group19fc.Adnan to javafx.fxml;
+    exports cse213.group19fc.Adnan;
+    opens cse213.group19fc.Munna to javafx.fxml;
+    exports cse213.group19fc.Munna;
 }

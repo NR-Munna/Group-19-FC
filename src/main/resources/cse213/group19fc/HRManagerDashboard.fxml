@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="600.0" prefWidth="700.0" style="-fx-background-color: linear-gradient(to bottom, rgba(74, 144, 226, 0.8), rgba(80, 227, 194, 0.6))" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.oop_project_group19.HRManagerDashboardController">
+<AnchorPane prefHeight="600.0" prefWidth="700.0" style="-fx-background-color: linear-gradient(to bottom, rgba(74, 144, 226, 0.8), rgba(80, 227, 194, 0.6))" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cse213.group19fc.HRManagerDashboardController">
     <children>
         <Label layoutX="222.0" layoutY="55.0" text="HR Manager Dashboard" textAlignment="CENTER" textFill="WHITE">
             <font>

@@ -36,42 +36,42 @@ public class TechnicalSupportDashboardController {
 
     @FXML
     private void handleViewTicketQueue(ActionEvent event) {
-        switchScene(event, "Adnan/ViewTicketQueue.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/ViewTicketQueue.fxml");
     }
 
     @FXML
     private void handleUpdateTicketStatus(ActionEvent event) {
-        switchScene(event, "Adnan/UpdateTicketStatus.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/UpdateTicketStatus.fxml");
     }
 
     @FXML
     private void handlePasswordReset(ActionEvent event) {
-        switchScene(event, "Adnan/PasswordResetRequests.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/PasswordResetRequests.fxml");
     }
 
     @FXML
     private void handleReviewsComplaints(ActionEvent event) {
-        switchScene(event, "Adnan/ReviewsComplaints.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/ReviewsComplaints.fxml");
     }
 
     @FXML
     private void handleMonitorActivity(ActionEvent event) {
-        switchScene(event, "Adnan/MonitorUserActivity.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/MonitorUserActivity.fxml");
     }
 
     @FXML
     private void handlePaymentProblems(ActionEvent event) {
-        switchScene(event, "Adnan/PaymentProblems.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/PaymentProblems.fxml");
     }
 
     @FXML
     private void handleBugReports(ActionEvent event) {
-        switchScene(event, "Adnan/BugReports.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/BugReports.fxml");
     }
 
     @FXML
     private void handleChatSupport(ActionEvent event) {
-        switchScene(event, "Adnan/ChatSupport.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/ChatSupport.fxml");
     }
 
     @FXML

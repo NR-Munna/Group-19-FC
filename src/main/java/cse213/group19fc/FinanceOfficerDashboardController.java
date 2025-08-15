@@ -36,42 +36,42 @@ public class FinanceOfficerDashboardController {
 
     @FXML
     private void onProcessInvoices(ActionEvent event) {
-        switchScene(event, "Naimur/processInvoices.fxml");
+        switchScene(event, "Munna/processInvoices.fxml");
     }
 
     @FXML
     private void onCalculateTax(ActionEvent event) {
-        switchScene(event, "Naimur/calculateTax.fxml");
+        switchScene(event, "Munna/calculateTax.fxml");
     }
 
     @FXML
     private void onGeneratePayStubs(ActionEvent event) {
-        switchScene(event, "Naimur/generatePayStubs.fxml");
+        switchScene(event, "Munna/generatePayStubs.fxml");
     }
 
     @FXML
     private void onTrackExpenses(ActionEvent event) {
-        switchScene(event, "Naimur/trackExpenses.fxml");
+        switchScene(event, "Munna/trackExpenses.fxml");
     }
 
     @FXML
     private void onMonitorCashFlow(ActionEvent event) {
-        switchScene(event, "Naimur/monitorCashFlow.fxml");
+        switchScene(event, "Munna/monitorCashFlow.fxml");
     }
 
     @FXML
     private void onHandleRefunds(ActionEvent event) {
-        switchScene(event, "Naimur/handleRefunds.fxml");
+        switchScene(event, "Munna/handleRefunds.fxml");
     }
 
     @FXML
     private void onCreateBudget(ActionEvent event) {
-        switchScene(event, "Naimur/createBudget.fxml");
+        switchScene(event, "Munna/createBudget.fxml");
     }
 
     @FXML
     private void onLoanManagement(ActionEvent event) {
-        switchScene(event, "Naimur/loanManagement.fxml");
+        switchScene(event, "Munna/loanManagement.fxml");
     }
 
     @FXML
