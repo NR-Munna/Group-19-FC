@@ -11,4 +11,6 @@ module cse213.group19fc {
     exports cse213.group19fc.Munna;
     opens cse213.group19fc.Shawon to javafx.fxml;
     exports cse213.group19fc.Shawon;
+    opens cse213.group19fc.Samira to javafx.fxml;
+    exports cse213.group19fc.Samira;
 }
