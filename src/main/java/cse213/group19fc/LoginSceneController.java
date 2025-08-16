@@ -116,10 +116,10 @@ public class LoginSceneController {
 
         switch (userType) {
             case "Client":
-                fxmlFile = "/com/example/oop_project_group19/ClientDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/ClientDashboard.fxml";
                 break;
             case "Freelancer":
-                fxmlFile = "/com/example/oop_project_group19/FreelancerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/FreelancerDashboard.fxml";
                 break;
             case "Admin":
                 fxmlFile = "/cse213/group19fc/AdminDashboard.fxml";
@@ -128,16 +128,16 @@ public class LoginSceneController {
                 fxmlFile = "/cse213/group19fc/ProjectManagerDashboard.fxml";
                 break;
             case "HR Manager":
-                fxmlFile = "/com/example/oop_project_group19/HRManagerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/HRManagerDashboard.fxml";
                 break;
             case "Finance Officer":
-                fxmlFile = "/com/example/oop_project_group19/FinanceOfficerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/FinanceOfficerDashboard.fxml";
                 break;
             case "Technical Support":
-                fxmlFile = "/com/example/oop_project_group19/TechnicalSupportDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/TechnicalSupportDashboard.fxml";
                 break;
             case "Reviewer":
-                fxmlFile = "/com/example/oop_project_group19/ReviewerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/ReviewerDashboard.fxml";
                 break;
             default:
                 showAlert("Error", "Invalid user type selected.");

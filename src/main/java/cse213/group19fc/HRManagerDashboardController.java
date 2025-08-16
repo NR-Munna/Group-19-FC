@@ -36,42 +36,42 @@ public class HRManagerDashboardController {
 
     @FXML
     private void onScheduleInterview(ActionEvent event) {
-        switchScene(event, "Naimur/scheduleInterview.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/scheduleInterview.fxml");
     }
 
     @FXML
     private void onUpdateContact(ActionEvent event) {
-        switchScene(event, "Naimur/updateContact.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/updateContact.fxml");
     }
 
     @FXML
     private void onViewRatings(ActionEvent event) {
-        switchScene(event, "Naimur/viewRatings.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/viewRatings.fxml");
     }
 
     @FXML
     private void onManageLeave(ActionEvent event) {
-        switchScene(event, "Naimur/manageLeave.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/manageLeave.fxml");
     }
 
     @FXML
     private void onEmployeeRecords(ActionEvent event) {
-        switchScene(event, "Naimur/employeeRecords.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/employeeRecords.fxml");
     }
 
     @FXML
     private void onManageFreelancer(ActionEvent event) {
-        switchScene(event, "Naimur/manageFreelancer.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/manageFreelancer.fxml");
     }
 
     @FXML
     private void onTrackTraining(ActionEvent event) {
-        switchScene(event, "Naimur/trackTraining.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/trackTraining.fxml");
     }
 
     @FXML
     private void onCalculateSalary(ActionEvent event) {
-        switchScene(event, "Naimur/calculateSalary.fxml");
+        switchScene(event, "/cse213/group19fc/Munna/calculateSalary.fxml");
     }
 
     @FXML

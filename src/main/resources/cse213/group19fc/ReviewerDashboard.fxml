@@ -9,7 +9,7 @@
             style="-fx-background-color: linear-gradient(to bottom, #667eea, #764ba2);"
             xmlns="http://javafx.com/javafx/23"
             xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="com.example.oop_project_group19.ReviewerDashboardController">
+            fx:controller="cse213.group19fc.ReviewerDashboardController">
 
     <children>
         <Label layoutX="280.0" layoutY="30.0" text="Reviewer Dashboard" textFill="WHITE">

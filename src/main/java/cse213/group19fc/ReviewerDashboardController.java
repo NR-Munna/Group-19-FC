@@ -28,42 +28,42 @@ public class ReviewerDashboardController {
 
     @FXML
     private void handleCheckMilestone(ActionEvent event) {
-        switchScene(event, "Adnan/RcheckMilestone.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RcheckMilestone.fxml");
     }
 
     @FXML
     private void handleCreateReviewNote(ActionEvent event) {
-        switchScene(event, "Adnan/RcreateReviewNote.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RcreateReviewNote.fxml");
     }
 
     @FXML
     private void handleGenerateWeeklySummary(ActionEvent event) {
-        switchScene(event, "Adnan/RgenerateWeeklySummary.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RgenerateWeeklySummary.fxml");
     }
 
     @FXML
     private void handleRateCompleteProject(ActionEvent event) {
-        switchScene(event, "Adnan/RrateCompleteProject.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RrateCompleteProject.fxml");
     }
 
     @FXML
     private void handleReviewFreelancer(ActionEvent event) {
-        switchScene(event, "Adnan/RreviewFreelancer.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RreviewFreelancer.fxml");
     }
 
     @FXML
     private void handleReviewProject(ActionEvent event) {
-        switchScene(event, "Adnan/RreviewProject.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RreviewProject.fxml");
     }
 
     @FXML
     private void handleSendWarning(ActionEvent event) {
-        switchScene(event, "Adnan/RsendWarning.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RsendWarning.fxml");
     }
 
     @FXML
     private void handleViewReviewHistory(ActionEvent event) {
-        switchScene(event, "Adnan/RviewReviewHistory.fxml");
+        switchScene(event, "/cse213/group19fc/Adnan/RviewReviewHistory.fxml");
     }
 
     @FXML
