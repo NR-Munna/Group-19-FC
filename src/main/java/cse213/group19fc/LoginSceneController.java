@@ -116,10 +116,10 @@ public class LoginSceneController {
 
         switch (userType) {
             case "Client":
-                fxmlFile = "/com/example/oop_project_group19/ClientDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/ClientDashboard.fxml";
                 break;
             case "Freelancer":
-                fxmlFile = "/com/example/oop_project_group19/FreelancerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/FreelancerDashboard.fxml";
                 break;
             case "Admin":
                 fxmlFile = "/com/example/oop_project_group19/AdminDashboard.fxml";
