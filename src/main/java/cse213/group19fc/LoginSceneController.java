@@ -122,10 +122,10 @@ public class LoginSceneController {
                 fxmlFile = "/com/example/oop_project_group19/FreelancerDashboard.fxml";
                 break;
             case "Admin":
-                fxmlFile = "/com/example/oop_project_group19/AdminDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/AdminDashboard.fxml";
                 break;
             case "Project Manager":
-                fxmlFile = "/com/example/oop_project_group19/ProjectManagerDashboard.fxml";
+                fxmlFile = "/cse213/group19fc/ProjectManagerDashboard.fxml";
                 break;
             case "HR Manager":
                 fxmlFile = "/com/example/oop_project_group19/HRManagerDashboard.fxml";
